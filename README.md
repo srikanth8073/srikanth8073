@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @srikanth Reddy P V
 - 👀 I’m interested in Dev OPPs
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning micro Service
+- 💞️ I’m looking to collaborate on anything usefull to others
 - 📫 How to reach me ...
 
 <!---
